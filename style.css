@@ -1,0 +1,17 @@
+
+table{
+    background-color: navajowhite;
+    width: 45%;
+    margin-left: 300px;
+}
+h1{
+    background-color: aqua;
+    color: blue;
+    text-align: left;
+}
+.a{
+    color: blue;
+}
+#b{
+    vertical-align: text-top;
+}
